@@ -1,0 +1,39 @@
+{
+   "students": [
+      {
+         "sno": 1,
+         "name": "rohan",
+         "age": "18",
+         "address": "tuty",
+         "course": "python"
+      },
+      {
+         "sno": 2,
+         "name": "joe",
+         "age": "17",
+         "address": "madurai\r\n\r\n",
+         "course": "java"
+      },
+      {
+         "sno": 3,
+         "name": "rohan",
+         "age": "12",
+         "address": "asdf",
+         "course": "java"
+      },
+      {
+         "sno": 4,
+         "name": "jastin",
+         "age": "23",
+         "address": "asdf",
+         "course": "java"
+      },
+      {
+         "sno": 5,
+         "name": "johan",
+         "age": "19",
+         "address": "sdf",
+         "course": "python"
+      }
+   ]
+}
